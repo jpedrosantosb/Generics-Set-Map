@@ -1,0 +1,9 @@
+Eduardo Rodrigues,15
+Leila Pereira,22
+Weverton Couto,21
+Eduardo Rodrigues,30
+Weverton Couto,15
+Leila Pereira,27
+Leila Pereira,22
+Weverton Couto,25
+Eduardo Rodrigues,31
